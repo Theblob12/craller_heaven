@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "craller_heaven:item/craller_spawn_egg"
+  }
+}
