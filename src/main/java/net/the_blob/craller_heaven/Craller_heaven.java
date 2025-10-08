@@ -53,13 +53,7 @@ public class Craller_heaven
 
     // Add the example block item to the building blocks tab
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
-        if (event.getTabKey() == CreativeModeTabs.TOOLS_AND_UTILITIES) {
-            event.accept(ModItems.CRALLER);
-        }
-        if (event.getTabKey() == CreativeModeTabs.SPAWN_EGGS) {
-            event.accept(ModItems.CRALLER_SPAWN_EGG);
-            event.accept(ModItems.QUEEN_CRALLER_SPAWN_EGG);
-        }
+
     }
 
 

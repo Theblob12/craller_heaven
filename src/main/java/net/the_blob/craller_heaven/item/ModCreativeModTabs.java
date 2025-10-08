@@ -21,6 +21,7 @@ public class ModCreativeModTabs {
                 output.accept(ModItems.CRALLER.get());
 
                 output.accept(ModBlocks.CHARGER.get());
+                output.accept(ModBlocks.MAGNITITE_ORES.get());
 
                 output.accept(ModItems.CRALLER_SPAWN_EGG.get());
                 output.accept(ModItems.QUEEN_CRALLER_SPAWN_EGG.get());

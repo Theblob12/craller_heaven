@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "craller_heaven:block/charger"
+    "all": "craller_heaven:block/magnitite_ores"
   }
 }
